@@ -13,6 +13,8 @@
     <body>
         <h1>list of pages that i've made for practice</h1>
         <a href="tables.html">tables</a>
+        <a href="lists.html">lists</a>
+        <a href="menu.html">menu</a>
     </body>
 </html>
 <?php
