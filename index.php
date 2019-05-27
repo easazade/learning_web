@@ -19,6 +19,7 @@
         <a href="menu.html">menu</a>
         <a href="js.html">js</a>
         <a href="entities.php">entities</a>
+        <a href="forms.php">forms</a>
         <br>
         <br>
         <hr>
