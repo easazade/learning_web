@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
@@ -10,6 +10,7 @@
                 background-color: dodgerblue;
             }
         </style>
+        <title>Html Tutorial</title>
     </head>
     <body>
         <h1>list of pages that i've made for practice</h1>
@@ -18,13 +19,10 @@
         <a href="menu.html">menu</a>
         <a href="js.html">js</a>
         <a href="entities.php">entities</a>
+        <br>
+        <br>
+        <hr>
+        <br>
+        <a href="info.html">info</a>
     </body>
 </html>
-<?php
-//echo "this is a good day";
-
-function doSome() {
-}
-
-?>
-

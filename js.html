@@ -7,4 +7,21 @@
             Click me to display Date and Time.</button>
         <p id="demo"></p>
     </body>
+    <script>
+        var i;
+        for (i = 0; i < cars.length; i++) {
+            text += cars[i] + "<br>";
+        }
+
+        while (i < 10) {
+            text += "The number is " + i;
+            i++;
+        }
+
+        function toCelsius(fahrenheit) {
+            return (5/9) * (fahrenheit-32);
+        }
+        document.getElementById("demo").innerHTML = toCelsius(77);
+
+    </script>
 </html>
